@@ -18,7 +18,7 @@
 - 🧠 **CCNA Certified**, preparing for **MCSA**
 - 💻 Working with **GNS3**, **Cisco Packet Tracer**, and network lab simulations
 - 🎨 Front-End Developer using **HTML5**, **CSS3**, **Bootstrap**, **Tailwind CSS**, **JavaScript**, **React.js**, **Vue.js**
-- 💬 Ask me about anything related to **Networking**, **APIs**, or **Linux basics**
+- 💬 Ask me about anything related to **Networking**, **APIs**, or **Linux basics**F
 - 📬 Email: **sayed.ayman900900@gmail.com**
 
 ---
@@ -47,25 +47,12 @@
 
 ### 📘 Book Store RESTful API
 - 🧩 Technologies: Node.js, Express, MongoDB
-- 🔗 [View on GitHub](https://github.com/seka10/Book-Store-Restful-API)
 
 ### 📝 To-Do List
 - ⚙️ Tech: HTML, CSS, JavaScript (Vanilla)
-- 🔗 [View on GitHub](https://github.com/seka10/todolist)
 
 ### 🧠 Memory Game
 - 🎮 Fun game built with pure JS + DOM manipulation
-- 🔗 [View on GitHub](https://github.com/seka10/Memory-Game)
-
----
-
-## 🧾 Resume / CV
-
-<p align="center">
-  <a href="https://drive.google.com/file/d/1UuQwSa3Q0YwTnMZ9AaK7hYJdDD5EUG-K/view?usp=sharing" target="_blank">
-    <img src="https://img.shields.io/badge/Download-CV-blue?style=for-the-badge&logo=google-drive&logoColor=white"/>
-  </a>
-</p>
 
 ---
 
@@ -103,6 +90,13 @@
 </p>
 
 ---
+<h3 align="center">🏆 GitHub Trophies:</h3>
+  <p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=a-hemeda&theme=onestar&row=1&column=7"/>
+  </p>
+  <br>
+
+---
 
 ## 🗂️ Project Timeline
 
@@ -118,8 +112,15 @@
     2025 : Continuous Learning & Real Projects
 ```
 
+<p align="center">
+    <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"> <!-- Snake -->
+  </p>
+
 ---
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00bfff,100:0e75b6&height=100&section=footer"/>
 </p>
+
+---
+
