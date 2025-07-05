@@ -23,7 +23,22 @@
 
 ---
 
-## 🧠 Certifications
+## 🛡️ Profiles & Certifications
+
+<p align="center">
+  <a href="https://www.hackerrank.com/profile/Seka10" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+  </a>
+  
+  <!--Need some Changes -->
+
+  <a href="https://tryhackme.com/p/e.auwk1911" target="_blank">
+    <img src="https://img.shields.io/badge/TryHackMe-Profile-212C42?style=for-the-badge&logo=tryhackme&logoColor=red"/>
+  </a>
+  <a href="https://www.netacad.com/dashboard" target="_blank">
+    <img src="https://img.shields.io/badge/Cisco_NetAcad-Profile-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+  </a>
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/CCNA-Certified-brightgreen?style=for-the-badge&logo=cisco&logoColor=white"/>
