@@ -25,24 +25,22 @@
 
 ## 🛡️ Profiles & Certifications
 
+  <!--Need some Changes -->
+- 🧩 Practicing algorithms on HackerRank
+- 🎓 Certified through Cisco Networking Academy
+- 🛡️ Solving cybersecurity rooms on TryHackMe
 <p align="center">
-  <a href="https://www.hackerrank.com/profile/Seka10" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+  <a href="https://tryhackme.com/p/e.auwk1911" target="_blank">
+    <img src="https://img.shields.io/badge/TryHackMe-%20Cybersecurity%20Labs-E93E30?style=for-the-badge&logo=tryhackme&logoColor=white"/>
   </a>
   
-  <!--Need some Changes -->
-
-  <a href="https://tryhackme.com/p/e.auwk1911" target="_blank">
-    <img src="https://img.shields.io/badge/TryHackMe-Profile-212C42?style=for-the-badge&logo=tryhackme&logoColor=red"/>
+  <a href="https://www.netacad.com/profile?&tab=profile" target="_blank">
+    <img src="https://img.shields.io/badge/Cisco%20NetAcad-%20Networking%20Certs-0B5CAD?style=for-the-badge&logo=cisco&logoColor=white"/>
   </a>
-  <a href="https://www.netacad.com/dashboard" target="_blank">
-    <img src="https://img.shields.io/badge/Cisco_NetAcad-Profile-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+ 
+  <a href="https://www.hackerrank.com/dashboard" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-%20Algorithms%20&%20Code-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
   </a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/CCNA-Certified-brightgreen?style=for-the-badge&logo=cisco&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MCSA-In Progress-blue?style=for-the-badge&logo=microsoft&logoColor=white"/>
 </p>
 
 ---
