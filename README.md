@@ -3,7 +3,7 @@
 <h1 align="center">
   Hey there! 👋 I'm <span style="color:#00bfff">Sayed Ayman</span>
   <br>
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&duration=4000&pause=1000&color=00FFC6&center=true&vCenter=true&width=435&lines=Junior+IT+Specialist%5BNetworking%5D;CCNA+Certified+%7C+Learning+MCSA;GNS3+%2F+Packet+Tracer+User;Front-End+Developer"/>
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&duration=4000&pause=1000&color=00FFC6&center=true&vCenter=true&width=435&lines=Junior+IT+Specialist%5BNetworking%5D;Front-End+Developer"/>
 </h1>
 
 <p align="center">
