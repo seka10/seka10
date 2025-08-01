@@ -95,9 +95,9 @@
 
 ## 📄 Certifications
 
-| Certificate | Preview | Link |
-|-------------|---------|------|
-| Red Hat System | (https://github.com/seka10/seka10/blob/main/PNG/RedHatSystem.png) | [View PDF](https://github.com/seka10/seka10/blob/main/certification/redhat%20certifications%20-%20EN.pdf) |
+| Certificate | Preview | Link | Platform |
+|-------------|---------|------|----------|
+| Red Hat System | (https://github.com/seka10/seka10/blob/main/PNG/RedHatSystem.png) | [View PDF](https://github.com/seka10/seka10/blob/main/certification/redhat%20certifications%20-%20EN.pdf) | |[Mahara-Tech](https://maharatech.gov.eg/)|
 | Clean Code | (https://github.com/seka10/seka10/blob/main/PNG/CleanCoding.png) | [View PDF](https://github.com/seka10/seka10/blob/main/certification/_Course_Clean_Code_Certificate_En.pdf) |
 | User Experiance / User Interface | (https://github.com/seka10/seka10/blob/main/PNG/UXD.png) | [View PDF](https://github.com/seka10/seka10/blob/main/certification/Course_UX-UI_Certificate_En.pdf) |
 
