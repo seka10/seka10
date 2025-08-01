@@ -90,23 +90,19 @@
 </p>
 
 ---
----
-
-## 📄 My Certifications
-
-<p align="center">
-  <a href="https://link.to/your-certificate1.pdf" target="_blank">
-    <img src="https://link.to/your-certificate1.jpg" alt="CCNA Certificate" width="200"/>
-  </a>
-  <a href="https://link.to/your-certificate2.pdf" target="_blank">
-    <img src="https://link.to/your-certificate2.jpg" alt="Cyber Security Certificate" width="200"/>
-  </a>
-  <a href="https://link.to/your-certificate3.pdf" target="_blank">
-    <img src="https://link.to/your-certificate3.jpg" alt="TryHackMe Badge" width="200"/>
-  </a>
-</p>
 
 ---
+
+## 📄 Certifications
+
+| Certificate | Preview | Link |
+|-------------|---------|------|
+| Red Hat System | (https://github.com/seka10/seka10/blob/main/PNG/RedHatSystem.png) | [View PDF](https://github.com/seka10/seka10/blob/main/certification/redhat%20certifications%20-%20EN.pdf) |
+| Clean Code | (https://github.com/seka10/seka10/blob/main/PNG/CleanCoding.png) | [View PDF](https://github.com/seka10/seka10/blob/main/certification/_Course_Clean_Code_Certificate_En.pdf) |
+| User Experiance / User Interface | (https://github.com/seka10/seka10/blob/main/PNG/UXD.png) | [View PDF](https://github.com/seka10/seka10/blob/main/certification/Course_UX-UI_Certificate_En.pdf) |
+
+---
+
 
 ## 📊 GitHub Stats & Activity
 
