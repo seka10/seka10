@@ -90,6 +90,23 @@
 </p>
 
 ---
+---
+
+## 📄 My Certifications
+
+<p align="center">
+  <a href="https://link.to/your-certificate1.pdf" target="_blank">
+    <img src="https://link.to/your-certificate1.jpg" alt="CCNA Certificate" width="200"/>
+  </a>
+  <a href="https://link.to/your-certificate2.pdf" target="_blank">
+    <img src="https://link.to/your-certificate2.jpg" alt="Cyber Security Certificate" width="200"/>
+  </a>
+  <a href="https://link.to/your-certificate3.pdf" target="_blank">
+    <img src="https://link.to/your-certificate3.jpg" alt="TryHackMe Badge" width="200"/>
+  </a>
+</p>
+
+---
 
 ## 📊 GitHub Stats & Activity
 
