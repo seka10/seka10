@@ -128,13 +128,17 @@
 ```mermaid
   %% Mermaid Timeline
   timeline
-    title Key Learning & Project Timeline
-    2023 : Started IT & Networking Path
-    2024 Q1 : Completed CCNA
-    2024 Q2 : Built GNS3 Labs & Simulations
-    2024 Q3 : Started MCSA + Node.js APIs
-    2024 Q4 : Built Front-End Projects (React/Vue)
-    2025 : Continuous Learning & Real Projects
+  2023 : Started IT & Networking Path
+  2024 Q1 : Completed CCNA (Cisco Labs & Packet Tracer)
+  2024 Q2 : Built GNS3 Labs & Simulations
+  2024 Q3 : Started MCSA + Node.js APIs
+  2024 Q4 : Built Front-End Projects (React/Vue)
+  2025 Q1 : Red Hat System Admin I & Clean Code Certifications
+  2025 Q2 : TryHackMe - Junior Penetration Tester Certification
+  2025 Q2 : Cybersecurity Foundation & Network Fundamentals (Mahara-Tech)
+  2025 Q2 : UX/UI Front-End Developer Track (Mahara-Tech)
+  2025 Q2 : Deployed Portfolio & GitHub Projects
+
 ```
 
 <p align="center">
