@@ -92,19 +92,16 @@
 ---
 
 ---
-
 ## 📄 Certifications
 
-| Certificate | Preview | Link | Platform |
-|---------------|---------|------|----------|
-| Red Hat System | (https://github.com/seka10/seka10/blob/main/PNG/RedHatSystem.png) | [View PDF](https://github.com/seka10/seka10/blob/main/certification/redhat%20certifications%20-%20EN.pdf) | [Mahara-Tech](https://maharatech.gov.eg/)|
-| Clean Code | (https://github.com/seka10/seka10/blob/main/PNG/CleanCoding.png) | [View PDF](https://github.com/seka10/seka10/blob/main/certification/_Course_Clean_Code_Certificate_En.pdf) | [Mahara-Tech](https://maharatech.gov.eg/)|
-| User Experiance / User Interface | (https://github.com/seka10/seka10/blob/main/PNG/UXD.png) | [View PDF](https://github.com/seka10/seka10/blob/main/certification/Course_UX-UI_Certificate_En.pdf) | [Mahara-Tech](https://maharatech.gov.eg/)|
-| Cyber Security For All | (https://github.com/seka10/seka10/blob/main/PNG/Course_CyberSecurityforAll_Certificate_En.png) | [View PDF](https://github.com/seka10/seka10/blob/main/certification/Course_CyberSecurityforAll_Certificate_En.pdf) | [Mahara-Tech](https://maharatech.gov.eg/)|
-| Computer Network Fundamentals | (https://github.com/seka10/seka10/blob/main/PNG/Course_Computer_Network_Fundamentals_Certificate_En.png) | [View PDF](https://github.com/seka10/seka10/blob/main/certification/Course_Computer_Network_Fundamentals_Certificate_En.pdf) | [Mahara-Tech](https://maharatech.gov.eg/)|
-
----
-
+| Certificate                                | Preview                                             | PDF Link     | Platform       |
+|--------------------------------------------|-----------------------------------------------------|--------------|----------------|
+| **Computer Network Fundamentals (ITI‑MCIT)** | ![CNN‑Cert](https://github.com/seka10/seka10/blob/main/PNG/Course_Computer_Network_Fundamentals_Certificate_En.png) | [View PDF](https://github.com/seka10/seka10/blob/main/certification/Course_Computer_Network_Fundamentals_Certificate_En.pdf) | [Mahara‑Tech](https://maharatech.gov.eg/) |
+| **Cybersecurity Foundation (aka Cyber Security For All)** | ![Cyber‑Cert](https://github.com/seka10/seka10/blob/main/PNG/Course_CyberSecurityforAll_Certificate_En.png) | [View PDF](https://github.com/seka10/seka10/blob/main/certification/Course_CyberSecurityforAll_Certificate_En.pdf) | [Mahara‑Tech](https://maharatech.gov.eg/) |
+| **UI/UX (Front‑End) Developer Track**       | ![UX‑UI‑Cert](https://github.com/seka10/seka10/blob/main/PNG/UXD.png) | [View PDF](https://github.com/seka10/seka10/blob/main/certification/Course_UX-UI_Certificate_En.pdf) | [Mahara‑Tech](https://maharatech.gov.eg/) |
+| **Writing Clean Code / Clean Code Principles** | ![CleanCode](https://github.com/seka10/seka10/blob/main/PNG/CleanCoding.png) | [View PDF](https://github.com/seka10/seka10/blob/main/certification/_Course_Clean_Code_Certificate_En.pdf) | [Mahara‑Tech](https://maharatech.gov.eg/) |
+| **Red Hat System Administration I**        | ![RHSA‑Cert](https://github.com/seka10/seka10/blob/main/PNG/RedHatSystem.png) | [View PDF](https://github.com/seka10/seka10/blob/main/certification/redhat%20certifications%20-%20EN.pdf) | [Mahara‑Tech](https://maharatech.gov.eg/) |
+| **Junior Penetration Tester** *(TryHackMe)* | ![Jr‑VAPT](https://github.com/seka10/seka10/blob/main/PNG/TryHackMe_Certification.jpg) | [View PDF](https://github.com/seka10/seka10/blob/main/certification/TryHackMe_Certification.pdf) | [TryHackMe](https://tryhackme.com/p/Seka10) |
 
 ## 📊 GitHub Stats & Activity
 
