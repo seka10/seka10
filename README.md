@@ -96,6 +96,7 @@
 
 | Certificate                                | Preview                                             | PDF Link     | Platform       |
 |--------------------------------------------|-----------------------------------------------------|--------------|----------------|
+| **Computer Network Fundamentals** | ![CNN‑Cert](https://github.com/seka10/seka10/blob/main/PNG/Course_Implementation_Computer_Networking_Fundamentals_Certificate_En.png) | [View PDF](https://github.com/seka10/seka10/blob/main/certification/Course_Implementation_Computer_Networking_Fundamentals_Certificate_En.pdf) | [Mahara‑Tech](https://maharatech.gov.eg/) |
 | **Computer Network Fundamentals** | ![CNN‑Cert](https://github.com/seka10/seka10/blob/main/PNG/Course_Computer_Network_Fundamentals_Certificate_En.png) | [View PDF](https://github.com/seka10/seka10/blob/main/certification/Course_Computer_Network_Fundamentals_Certificate_En.pdf) | [Mahara‑Tech](https://maharatech.gov.eg/) |
 | **Cybersecurity Foundation** | ![Cyber‑Cert](https://github.com/seka10/seka10/blob/main/PNG/Course_CyberSecurityforAll_Certificate_En.png) | [View PDF](https://github.com/seka10/seka10/blob/main/certification/Course_CyberSecurityforAll_Certificate_En.pdf) | [Mahara‑Tech](https://maharatech.gov.eg/) |
 | **UI/UX (Front‑End Developer Track)**       | ![UX‑UI‑Cert](https://github.com/seka10/seka10/blob/main/PNG/UXD.png) | [View PDF](https://github.com/seka10/seka10/blob/main/certification/Course_UX-UI_Certificate_En.pdf) | [Mahara‑Tech](https://maharatech.gov.eg/) |
