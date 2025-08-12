@@ -96,6 +96,7 @@
 
 | Certificate                                | Preview                                             | PDF Link     | Platform       |
 |--------------------------------------------|-----------------------------------------------------|--------------|----------------|
+| **HP Active WEBSites** | ![CNN‑Cert](https://github.com/seka10/seka10/blob/main/PNG/HP%20WEB%20Active.png) | [View PDF](https://github.com/seka10/seka10/blob/main/certification/HP-WEBcertificate.pdf) | [Mahara‑Tech](https://www.life-global.org/) |
 | **HP Cyber Security** | ![CNN‑Cert](https://github.com/seka10/seka10/blob/main/PNG/HP.png) | [View PDF](https://github.com/seka10/seka10/blob/main/certification/HP_certificate.pdf) | [Mahara‑Tech](https://www.life-global.org/) |
 | **Network Security Introduction** | ![CNN‑Cert](https://github.com/seka10/seka10/blob/main/PNG/Network%20_Security_Introduction_Certificate.png) | [View PDF](https://github.com/seka10/seka10/blob/main/certification/Network%20_Security_Introduction_Certificate-EN.pdf) | [Mahara‑Tech](https://maharatech.gov.eg/) |
 | **Implementation Computer Network Fundamentals** | ![CNN‑Cert](https://github.com/seka10/seka10/blob/main/PNG/Course_Implementation_Computer_Networking_Fundamentals_Certificate_En.png) | [View PDF](https://github.com/seka10/seka10/blob/main/certification/Course_Implementation_Computer_Networking_Fundamentals_Certificate_En.pdf) | [Mahara‑Tech](https://maharatech.gov.eg/) |
