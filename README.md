@@ -96,6 +96,7 @@
 
 | Certificate                                | Preview                                             | PDF Link     | Platform       |
 |--------------------------------------------|-----------------------------------------------------|--------------|----------------|
+| **LinkidIN-Learning Certificate Of Completion Cybersecurity Foundations** | ![CNN‑Cert]( https://github.com/seka10/seka10/blob/main/PNG/CertificateOfCompletion_Cybersecurity%20Foundations.png ) | [View PDF]( https://github.com/seka10/seka10/blob/main/certification/CertificateOfCompletion_Cybersecurity%20Foundations.pdf ) | [LinkedIN Learning]( https://www.linkedin.com/learning/ ) |
 | **Springs Cybersecurity + Microsoft** | ![CNN‑Cert]( https://github.com/seka10/seka10/blob/main/PNG/Microsoft%20-%20Summer%20Camp.png ) | [View PDF]( https://github.com/seka10/seka10/blob/main/certification/Microsoft%20-%20Certification.pdf ) | [Sprints]( https://sprints.ai/ar-eg ) |
 | **HP Cyber Security** | ![CNN‑Cert](https://github.com/seka10/seka10/blob/main/PNG/HP.png) | [View PDF](https://github.com/seka10/seka10/blob/main/certification/HP_certificate.pdf) | [HP](https://www.life-global.org/) |
 | **Network Security Introduction** | ![CNN‑Cert](https://github.com/seka10/seka10/blob/main/PNG/Network%20_Security_Introduction_Certificate.png) | [View PDF](https://github.com/seka10/seka10/blob/main/certification/Network%20_Security_Introduction_Certificate-EN.pdf) | [Mahara‑Tech](https://maharatech.gov.eg/) |
