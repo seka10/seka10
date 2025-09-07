@@ -96,6 +96,7 @@
 
 | Certificate                                | Preview                                             | PDF Link     | Platform       |
 |--------------------------------------------|-----------------------------------------------------|-------------------|----------------|
+| **Edraak Protection system from Penetration testing**| ![CCN‑Cert]( https://github.com/seka10/seka10/blob/main/PNG/Edraak%20Protection%20system%20from%20Penetration%20testing%20.png ) | [View PDF]( https://github.com/seka10/seka10/blob/main/certification/Course_Certificate_EDRAAK_Protect_Systems_From_penetrations.pdf ) | [ EDRAAK ]( https://www.edraak.org/ ) |
 | **Certificate In Ethical Hacking** | ![CNN‑Cert]( https://github.com/seka10/seka10/blob/main/PNG/Course_Certificate_InEthicalHacking_En.png ) | [View PDF]( https://github.com/seka10/seka10/blob/main/certification/Course_Certificate_InEthicalHacking_En.pdf ) | [Mahara‑Tech](https://maharatech.gov.eg/) |
 | **LinkidIN-Learning Certificate Of Completion Microsoft Cybersecurity Copilot** | ![CNN‑Cert]( https://github.com/seka10/seka10/blob/main/PNG/CertificateOfCompletion_Microsoft%20Security%20Copilot.png ) | [View PDF]( https://github.com/seka10/seka10/blob/main/certification/CertificateOfCompletion_Microsoft%20Security%20Copilot.pdf ) | [LinkedIN Learning]( https://www.linkedin.com/learning/ ) |
 | **Network Security Introduction** | ![CNN‑Cert](https://github.com/seka10/seka10/blob/main/PNG/Network%20_Security_Introduction_Certificate.png) | [View PDF](https://github.com/seka10/seka10/blob/main/certification/Network%20_Security_Introduction_Certificate-EN.pdf) | [Mahara‑Tech](https://maharatech.gov.eg/) |
@@ -111,6 +112,7 @@
 | **Writing Clean Code / Clean Code Principles** | ![CleanCode](https://github.com/seka10/seka10/blob/main/PNG/CleanCoding.png) | [View PDF](https://github.com/seka10/seka10/blob/main/certification/_Course_Clean_Code_Certificate_En.pdf) | [Mahara‑Tech](https://maharatech.gov.eg/) |
 | **Junior Penetration Tester** *(TryHackMe)*| ![Jr‑VAPT](https://github.com/seka10/seka10/blob/main/PNG/TryHackMe_Certification.jpg) | [View PDF](https://github.com/seka10/seka10/blob/main/certification/TryHackMe_Certification.pdf) | [TryHackMe](https://tryhackme.com/p/Seka10) |
 | **Red Hat System Administration I**| ![RHSA‑Cert](https://github.com/seka10/seka10/blob/main/PNG/RedHatSystem.png) | [View PDF](https://github.com/seka10/seka10/blob/main/certification/redhat%20certifications%20-%20EN.pdf) | [Mahara‑Tech](https://maharatech.gov.eg/) |
+| **Basics of cyber Security**| ![CCN‑Cert]( https://github.com/seka10/seka10/blob/main/PNG/Edraak.png ) | [View PDF]( https://github.com/seka10/seka10/blob/main/certification/Course_Certificate_EDRAAK_Basics_of_cyber_Security.pdf ) | [ EDRAAK ]( https://www.edraak.org/ ) |
 
 ## 📊 GitHub Stats & Activity
 
